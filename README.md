@@ -1,5 +1,5 @@
 # NFC
-A simple NFC tile toggle for Android
+A simple NFC tile toggle for Android. Note that this repo moving forward will be a playground for testing different NFC capabilities, not limited to enable/disable NFC service
 
 >Note that this app requires a rooted phone or manually grant permission to allow the app to alter the NFC setting. To do this, issue the following adb command:
 ```bash
